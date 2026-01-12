@@ -19,5 +19,5 @@ Many automotive websites dilute impact with generic layouts or excessive ornamen
 ## Live preview
 Link to the website: https://denysovski.github.io/LamborghiniShowcase/
 
-<img alt="screencapture-denysovski-github-io-LamborghiniShowcase-2026-01-12-01_08_53 - kopie" src="https://github.com/user-attachments/assets/8ae6436e-dbeb-472e-8e07-7ec6cb19ff70" />
+<img alt="screencapture-denysovski-github-io-LamborghiniShowcase-2026-01-12-01_12_55" src="https://github.com/user-attachments/assets/92ccc7d5-af46-4e84-98a6-3c58a23c7c77" />
 <img alt="screencapture-denysovski-github-io-LamborghiniShowcase-2026-01-12-01_08_53" src="https://github.com/user-attachments/assets/141e6b24-2a45-4b1d-8faa-a6c286dfe832" />
