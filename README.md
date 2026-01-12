@@ -17,4 +17,7 @@ Lamborghini is a digital showcase shaped by the brand’s uncompromising approac
 Many automotive websites dilute impact with generic layouts or excessive ornamentation. This Lamborghini platform embraces intensity and clarity. It balances luxury with raw performance, allowing motion, soundless tension, and structure to communicate value. From exploring flagship models to configuring a vehicle or diving into the brand’s engineering mindset, the experience feels aggressive, engineered, and unmistakably Lamborghini.
 
 ## Live preview
-Link to the website: 
+Link to the website: https://denysovski.github.io/LamborghiniShowcase/
+
+<img alt="screencapture-denysovski-github-io-LamborghiniShowcase-2026-01-12-01_08_53 - kopie" src="https://github.com/user-attachments/assets/8ae6436e-dbeb-472e-8e07-7ec6cb19ff70" />
+<img alt="screencapture-denysovski-github-io-LamborghiniShowcase-2026-01-12-01_08_53" src="https://github.com/user-attachments/assets/141e6b24-2a45-4b1d-8faa-a6c286dfe832" />
